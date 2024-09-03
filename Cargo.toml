@@ -1,0 +1,14 @@
+[package]
+name = "memory_analyzer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+
+
+[features]
+default = []
+analyzer = []
+game_engine = []
